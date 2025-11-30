@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Luca Fernandez
+Hi! 
 =======================================================================================================================================
 
 Unity Developer / .Net Framework Developer
 ------------------------------------------
 
-Hi! I'm Luca 👋
+Hey I'm Luca 👋
 
 Unity Developer from Argentina, focused on creating interactive experiences and clean, scalable systems.
 
