@@ -8,7 +8,7 @@ Hey I'm Luca 👋
 
 Unity Developer from Argentina, focused on creating interactive experiences and clean, scalable systems.
 
-I work mainly with Unity (C#) and .NET Framework Tools (ASP.NET - WinForms), and I'm currently expanding into data analysis.
+I work mainly with Unity (C#) and .NET Framework Tools (ASP.NET - WinForms), and I'm currently expanding into Go.
 
 I enjoy building games, tools, and backend services — and I'm always learning something new.
 
@@ -18,7 +18,7 @@ Thanks for visiting my profile!
 * 🖥️  See my portfolio at [this link](http://docs.google.com/presentation/d/14HApQyHiQkIMXcGMG0c5m9wvhN_hs3z-mKJryEnSmDI/edit?slide=id.gc6f90357f_0_13#slide=id.gc6f90357f_0_13)
 * ✉️  You can contact me at [luca.fernandezwork@gmail.com](mailto:luca.fernandezwork@gmail.com)
 * 🚀  I'm currently working on [Shippin](https://store.steampowered.com/app/3334100/Shippin/?l=spanish)
-* 👥  I'm looking to collaborate on Game Development projects
+* 👥  I'm ALWAYS looking to collaborate on Game Development projects
 * 💬  I’m secretly a VFX artist — don’t tell the Programmers Union. I told them my particle systems are ‘procedural math’
 
 <p align="left">
